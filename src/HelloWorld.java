@@ -16,9 +16,5 @@ public class HelloWorld {
 		System.out.println("Hello ASE2017 - How are you? :)");
 	}
 
-	public static void test(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Hello ASE2017 - How are you? :)");
-	}
 
 }
