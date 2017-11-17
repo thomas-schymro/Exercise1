@@ -12,13 +12,10 @@ public class HelloWorld {
 		user.username = br.readLine();
 		user.greetuser();
 		
-		// TODO Auto-generated method stu b
-		System.out.println("Hello ASE2017 - How are you now ? :)");
-	}
-
-	public static void test(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello ASE2017 - How are you? :)");
+		System.out.println("Hello ASE2017 - How are you now ? :)");
+	
+
 	}
 
 }
