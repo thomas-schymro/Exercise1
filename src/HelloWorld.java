@@ -13,7 +13,7 @@ public class HelloWorld {
 		user.greetuser();
 		
 		// TODO Auto-generated method stu b
-		System.out.println("Hello ASE2017 - How are you now? :)");
+		System.out.println("Hello ASE2017 - How are you now ? :)");
 	}
 
 	public static void test(String[] args) {
