@@ -12,10 +12,16 @@ public class HelloWorld {
 		user.username = br.readLine();
 		user.greetuser();
 		
+<<<<<<< HEAD
 		// TODO Auto-generated method stub
 		System.out.println("Hello ASE2017 - How are you now ?");
 	
 
+=======
+		// TODO Auto-generated method stu b
+		System.out.println("Hello ASE2017 - How are you? :)");
+>>>>>>> refs/heads/HelloUser
 	}
+
 
 }
